@@ -1,0 +1,11 @@
+services:
+  odiakhaby_portfolio:
+    image: odiakhaby_portfolio
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: production
+    container_name: odiakhaby_portfolio
+    restart: unless-stopped
+    ports:
+      - "80:80"

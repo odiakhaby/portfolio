@@ -1,0 +1,72 @@
+{
+  "projects": [
+    {
+      "title": "FlowCompta",
+      "description": "FlowCompta est une solution des gestion d'entreprise tout-en-un. Elle permets de gérer les commandes, les employés, les dépenses, les clients et plus encore. Elle est utilisée par l'entreprise Africa Globale Services & Supply depuis décembre 2023.",
+      "link": "https://flow-compta.com/"
+    },
+    {
+      "title": "Leccole",
+      "description": "Leccole est une plateforme de gestion scolaire complète pour les écoles de la maternelle au lycée. Elle permet de gérer les inscriptions, les paiements, les notes et les emplois du temps avec l'intelligence artificielle. Inclut un portail enseignants, une comptabilité intégrée et un système de rôles et permissions pour directeurs, secrétaires et comptables.",
+      "link": "https://leccole.com/"
+    },
+    {
+      "title": "NafaEngins",
+      "description": "NafaEngins est une plateforme web de vente et location de véhicules en Guinée. Elle permet aux particuliers et professionnels de publier et rechercher des annonces de poids lourds, engins BTP, 4x4, pickups et voitures. Développée avec React et Hono.",
+      "link": "https://nafa-engins.com/"
+    },
+    {
+      "title": "Kaidi",
+      "description": "Kaidi est une solution offline-first dédiée à la génnération de documents à partir de modèles Word, Excel et la gestion de la facturation. L'application fonctionne sans internet et permet la génération de documents en un clic avec protection des données sensibles.",
+      "link": "https://kaidi.diaksdev.com/"
+    },
+    {
+      "title": "ShapShapImmob",
+      "description": "ShapShapImmob est une application mobile intuitive et puissante permettant de gérer vos chantiers, de publier des annonces et de gérer vos locataires en toute simplicité",
+      "link": "#"
+    },
+    {
+      "title": "Vendeur Heureux",
+      "description": "Vendeur Heureux est une application web d'admistration de boutiques ecommerce, elle permets de gérer les stocks, les dépenses, les commandes, les livreurs et les employés. Elle a été développée avec React/Mantine et Node/Express",
+      "link": "https://vendeur-heureux.com/"
+    },
+    {
+      "title": "Leezay",
+      "description": "Leezay est une application web developpé avec React et LoopBack. Leezay est une application permettant aux entreprise d'assurer leur facture aux taux le plus bas en interrogeant différents assureurs.",
+      "link": "https://app.leezay.fr/login"
+    }
+  ],
+  "experiences": [
+    {
+      "title": "Développement de SaaS (Février 2024 - Aujourd'hui)",
+      "description": "Conception et développement de multiples solutions SaaS sur mesure pour différents secteurs d'activité.",
+      "mission": "Développement full-stack de plusieurs applications SaaS incluant une application de gestion scolaire (leccole.com), une plateforme de vente et location de véhicules en Guinée (nafa-engins.com), une solution de gestion documentaire pour mairies (kaidi.diaksdev.com), et d'autres solutions de gestion d'entreprise. Technologies utilisées : React, React Native, Node.js, Hono, et diverses bases de données.",
+      "logoUrl": "../../assets/Companies/freelance.png"
+    },
+    {
+      "title": "ITP Sarl (Juillet 2023 - Octobre 2023)",
+      "description": "Mission freelance pour le développement d'AlpiTraining (Qöna), une application mobile d'entraînement sportif.",
+      "mission": "Développement de la partie frontend avec React Native Expo pour une application d'entraînement personnalisé dédiée aux sports d'endurance (course à pied, trail, triathlon, cyclisme). Gestion complète du déploiement et de la publication sur Google Play Store et Apple App Store. L'application propose des programmes d'entraînement individualisés boostés par l'IA, avec des centaines de vidéos d'exercices.",
+      "logoUrl": "../../assets/Companies/freelance.png"
+    },
+    {
+      "title": "Amadeus (1an 4mois)",
+      "description": "Amadeus est une entreprise technologique mondiale spécialisée dans les solutions pour l'industrie du voyage, notamment les compagnies aériennes, agences de voyages, hôtels et aéroports.",
+      "mission": "Ma mission était d'assurer le bon fonctionnement de l'outil utilisé par la SNCF et de développer de nouvelles fonctionnalités, tout en appliquant les méthodes agiles en milieu professionnel dans un environnement anglophone.",
+      "logoUrl": "../../assets/Companies/amadeus.png"
+    },
+    {
+      "title": "EDF (3 ans)",
+      "description": "EDF est une entreprise française leader mondial dans la production et la fourniture d’électricité, spécialisée dans le nucléaire et les énergies renouvelables.",
+      "mission": "Ma mission consistait à développer une application web qui centralise les ressources accessibles aux prestataires, facilite leur entrée et leur sortie, et offre une vue 360° sur leurs habilitations.",
+      "mission2": "Trouver un outils permettant de stocker et mettre à disposition de manière sécuriser les sercrets applicatifs en respectant les contraintes de l'équipe cyber",
+      "logoUrl": "../../assets/Companies/edf.png"
+    },
+    {
+      "title": "Luminess (2 mois)",
+      "description": "Luminess est une entreprise française spécialisée dans la transformation digitale, la dématérialisation et l'archivage numérique pour divers secteurs, tels que la banque, l'assurance, l'administration et la santé.",
+      "mission": "Mon rôle était d'ajouter une fonctionnalité en PHP pour analyser les métadonnées des sauvegardes clients et intégrer un outil prédictif pour anticiper les pics ou incidents, comme le manque d'espace sur les serveurs.",
+      "logoUrl": "../../assets/Companies/luminess.png"
+    }
+  ]
+}

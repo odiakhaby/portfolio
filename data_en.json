@@ -1,0 +1,72 @@
+{
+  "projects": [
+    {
+      "title": "FlowCompta",
+      "description": "FlowCompta is an all-in-one business management solution. It allows you to manage orders, employees, expenses, clients and much more. Used by Africa Globale Services & Supply since December 2023.",
+      "link": "https://flow-compta.com/"
+    },
+    {
+      "title": "Leccole",
+      "description": "Leccole is a comprehensive school management platform for institutions from kindergarten to high school. It handles enrollments, payments, grades and schedules powered by artificial intelligence. Includes a teacher portal, integrated accounting and a role-based permissions system for principals, secretaries and accountants.",
+      "link": "https://leccole.com/"
+    },
+    {
+      "title": "NafaEngins",
+      "description": "NafaEngins is a web platform for buying and renting vehicles in Guinea. It allows individuals and businesses to post and search listings for heavy trucks, construction equipment, 4x4s, pickups and cars. Built with React and Hono.",
+      "link": "https://nafa-engins.com/"
+    },
+    {
+      "title": "Kaidi",
+      "description": "Kaidi is an offline-first solution dedicated to generating documents from Word and Excel templates, as well as managing invoicing. The application works without an internet connection and enables document generation in one click with sensitive data protection.",
+      "link": "https://kaidi.diaksdev.com/"
+    },
+    {
+      "title": "ShapShapImmob",
+      "description": "ShapShapImmob is an intuitive and powerful mobile application for managing construction sites, posting property listings and managing tenants with ease.",
+      "link": "#"
+    },
+    {
+      "title": "Vendeur Heureux",
+      "description": "Vendeur Heureux is a web administration application for e-commerce stores. It allows managing stock, expenses, orders, delivery drivers and employees. Built with React/Mantine and Node/Express.",
+      "link": "https://vendeur-heureux.com/"
+    },
+    {
+      "title": "Leezay",
+      "description": "Leezay is a web application built with React and LoopBack. It allows companies to insure their invoices at the lowest rate by querying multiple insurers.",
+      "link": "https://app.leezay.fr/login"
+    }
+  ],
+  "experiences": [
+    {
+      "title": "SaaS Development (February 2024 - Present)",
+      "description": "Design and development of multiple custom SaaS solutions across various business sectors.",
+      "mission": "Full-stack development of several SaaS applications including a school management platform (leccole.com), a vehicle sales and rental platform in Guinea (nafa-engins.com), an administrative document management solution for town halls (kaidi.diaksdev.com), and other business management tools. Technologies: React, React Native, Node.js, Hono, and various databases.",
+      "logoUrl": "../../assets/Companies/freelance.png"
+    },
+    {
+      "title": "ITP Sarl (July 2023 - October 2023)",
+      "description": "Freelance mission for the development of AlpiTraining (Qöna), a mobile sports training application.",
+      "mission": "Developed the frontend using React Native Expo for a personalised training application dedicated to endurance sports (running, trail, triathlon, cycling). Managed the complete deployment and publication on Google Play Store and Apple App Store. The app offers AI-powered personalised training programmes with hundreds of exercise videos.",
+      "logoUrl": "../../assets/Companies/freelance.png"
+    },
+    {
+      "title": "Amadeus (1 year 4 months)",
+      "description": "Amadeus is a global technology company specialising in solutions for the travel industry, including airlines, travel agencies, hotels and airports.",
+      "mission": "My mission was to ensure the smooth operation of the tool used by SNCF and to develop new features, while applying agile methodologies in a professional, English-speaking environment.",
+      "logoUrl": "../../assets/Companies/amadeus.png"
+    },
+    {
+      "title": "EDF (3 years)",
+      "description": "EDF is a French company and world leader in electricity production and supply, specialising in nuclear and renewable energy.",
+      "mission": "My mission involved developing a web application that centralises resources accessible to contractors, facilitates their onboarding and offboarding, and provides a 360° view of their accreditations.",
+      "mission2": "Find a tool to securely store and distribute application secrets while complying with the cybersecurity team's constraints.",
+      "logoUrl": "../../assets/Companies/edf.png"
+    },
+    {
+      "title": "Luminess (2 months)",
+      "description": "Luminess is a French company specialising in digital transformation, dematerialisation and digital archiving for various sectors including banking, insurance, public administration and healthcare.",
+      "mission": "My role was to add a PHP feature to analyse client backup metadata and integrate a predictive tool to anticipate peaks or incidents, such as running out of server disk space.",
+      "logoUrl": "../../assets/Companies/luminess.png"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "navbar": {
+    "home": "Home",
+    "projects": "Projects",
+    "about": "About",
+    "resume": "Resume"
+  },
+  "home": {
+    "greeting": "Hi There!",
+    "iam": "I'M"
+  },
+  "type": {
+    "strings": [
+      "Software Engineer",
+      "Web & Mobile Developer",
+      "Fullstack Developer",
+      "Freelance"
+    ]
+  },
+  "home2": {
+    "title_1": "LET ME",
+    "title_2": "INTRODUCE MYSELF",
+    "body_1": "I fell in love with programming and I've learned at least something, I think... 🤷‍♂️",
+    "body_2": "I'm fluent in classics like",
+    "body_3": "I channel my passion into",
+    "body_web": "Web Development",
+    "body_and": "and",
+    "body_mobile": "Mobile Development.",
+    "body_4": "I also love learning new technologies to explore the possibilities they offer.",
+    "body_5": "Whenever possible, I apply my passion for development using technologies like",
+    "body_6": "modern Javascript libraries and frameworks",
+    "body_7": "such as",
+    "find_me": "FIND ME ON",
+    "say_hello_1": "Feel free to",
+    "wave": "say hi,",
+    "say_hello_2": "I'll be happy to connect!"
+  },
+  "about": {
+    "title_1": "Who",
+    "title_2": "am I?",
+    "skills_1": "Professional",
+    "skills_2": "Skills",
+    "tools_1": "Tools",
+    "tools_2": "I Use"
+  },
+  "aboutCard": {
+    "iam": "I am",
+    "from": "based in",
+    "location": "Nice, France.",
+    "profession": "I am a software engineer specialising in web and mobile development.",
+    "line2_1": "After earning my",
+    "bac": "baccalaureate with highest honours",
+    "line2_2": "in Guinea, I was awarded a higher education scholarship in Morocco.",
+    "line3": "I studied physical sciences in Morocco for one year — the beginning of my adventure far from home.",
+    "line4_1": "Seeking a new challenge, I applied to continue my studies in France. That is how I found myself in this",
+    "wonderful_world": "wonderful world of computer science.",
+    "line4_2": "I started with a",
+    "dut": "University Technology Degree (DUT),",
+    "line4_3": "then had the opportunity to complete",
+    "engineer": "my engineering studies",
+    "line4_4": "at the",
+    "first_school": "top post-baccalaureate engineering school",
+    "line4_5": "in France in 2023,",
+    "insa": "INSA Lyon (",
+    "ranking": "Ranking",
+    "insa_close": ")",
+    "activities_intro": "Apart from coding, here are some activities I enjoy",
+    "activity_1": "Eating good food",
+    "activity_2": "Reading (recently 😃)",
+    "activity_3": "Travelling",
+    "quote": "\"Everything is possible for those who dream, dare, work and never give up.\"",
+    "quote_author": "Xavier Dolan"
+  },
+  "projects": {
+    "title_1": "My",
+    "title_2": "Projects",
+    "subtitle": "Some projects I have worked on",
+    "exp_title_1": "My",
+    "exp_title_2": "Experience",
+    "exp_subtitle": "Some companies I have worked with",
+    "see": "View"
+  },
+  "experience": {
+    "mission": "Mission",
+    "mission2": "Mission 2"
+  },
+  "resume": {
+    "download": "Download Resume"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "navbar": {
+    "home": "Accueil",
+    "projects": "Projets",
+    "about": "A propos",
+    "resume": "CV"
+  },
+  "home": {
+    "greeting": "Bonjour!",
+    "iam": "Je suis"
+  },
+  "type": {
+    "strings": [
+      "Ingénieur en informatique",
+      "Développeur Web et mobile",
+      "Développeur Fullstack",
+      "Freelance"
+    ]
+  },
+  "home2": {
+    "title_1": "LAISSEZ MOI ME",
+    "title_2": "PRESENTER",
+    "body_1": "Je suis tombé amoureux de la programmation et j'ai au moins appris quelque chose, je crois... 🤷‍♂️",
+    "body_2": "Je maîtrise quelques technologies classiques, telles que",
+    "body_3": "J'exprime ma passion dans le domaine du",
+    "body_web": "Développement Web",
+    "body_and": "et le",
+    "body_mobile": "Développement mobile.",
+    "body_4": "J'aime également apprendre les nouvelles technologies pour explorer les possibilités offertes par celle-ci.",
+    "body_5": "Dans la mesure du possible, je mets à profit ma passion pour le développement avec les technologies comme",
+    "body_6": "les librairies et frameworks modernes de Javascript",
+    "body_7": "telles que",
+    "find_me": "TROUVEZ MOI SUR",
+    "say_hello_1": "N'hésitez par à faire",
+    "wave": "coucou,",
+    "say_hello_2": "ça me fera plaisir"
+  },
+  "about": {
+    "title_1": "Qui",
+    "title_2": "suis-je ?",
+    "skills_1": "Compétences",
+    "skills_2": "Professionnelles",
+    "tools_1": "Outils",
+    "tools_2": "utilisés"
+  },
+  "aboutCard": {
+    "iam": "Je suis",
+    "from": "depuis",
+    "location": "Nice en France.",
+    "profession": "Je suis ingénieur en informatique spécialisé en développement web et mobile.",
+    "line2_1": "Après l'obtention de mon",
+    "bac": "bac avec la mention \"très bien\"",
+    "line2_2": "en Guinée, j'ai obtenu une bourse d'études supérieur au Maroc.",
+    "line3": "J'ai fait une année d'études des Sciences physiques au Maroc. Cette année fut le début de mon aventure loin du cocon familial.",
+    "line4_1": "Pour changer, j'ai postulé pour poursuivre mes études en France. Voila comment je me suis retrouvé dans ce",
+    "wonderful_world": "monde merveilleux de l'informatique.",
+    "line4_2": "J'ai commencé par un",
+    "dut": "DUT,",
+    "line4_3": "ensuite j'ai eu la chance de faire",
+    "engineer": "mes études d'ingénieur",
+    "line4_4": "dans la",
+    "first_school": "1ère école d'ingénieur post-bac",
+    "line4_5": "en France en 2023,",
+    "insa": "l'INSA de Lyon (",
+    "ranking": "Classement",
+    "insa_close": ")",
+    "activities_intro": "A part coder, voici quelques activités que j'aime faire",
+    "activity_1": "Manger de la bonne nourriture",
+    "activity_2": "Lire (récent 😃)",
+    "activity_3": "Voyager",
+    "quote": "\"Tout est possible à qui rêve, ose, travaille et n'abandonne jamais.\"",
+    "quote_author": "Xavier Dolan"
+  },
+  "projects": {
+    "title_1": "Mes",
+    "title_2": "projets",
+    "subtitle": "Quelques projets sur lesquels j'ai travaillé",
+    "exp_title_1": "Mes",
+    "exp_title_2": "Expériences",
+    "exp_subtitle": "Quelques entreprises dans lesquels j'ai travaillé",
+    "see": "Voir"
+  },
+  "experience": {
+    "mission": "Mission",
+    "mission2": "Mission 2"
+  },
+  "resume": {
+    "download": "Télécharger CV"
+  }
+}
