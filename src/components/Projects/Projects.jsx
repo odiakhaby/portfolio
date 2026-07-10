@@ -17,11 +17,11 @@ function Projects() {
   const ProjectsData = i18n.language === 'en' ? dataEn : dataFr;
 
   const getImage = (index) => {
-    if(index === 0 || index === 1) {
+    if(index === 0 || index === 0) {
       return freelance;
-    } else if(index === 2) {
+    } else if(index === 1) {
       return amadeus;
-    }else if(index === 3) {
+    }else if(index === 2) {
       return edf;
     } else {
       return luminess;

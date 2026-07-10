@@ -44,13 +44,7 @@
       "logoUrl": "../../assets/Companies/freelance.png"
     },
     {
-      "title": "ITP Sarl (Juillet 2023 - Octobre 2023)",
-      "description": "Mission freelance pour le développement d'AlpiTraining (Qöna), une application mobile d'entraînement sportif.",
-      "mission": "Développement de la partie frontend avec React Native Expo pour une application d'entraînement personnalisé dédiée aux sports d'endurance (course à pied, trail, triathlon, cyclisme). Gestion complète du déploiement et de la publication sur Google Play Store et Apple App Store. L'application propose des programmes d'entraînement individualisés boostés par l'IA, avec des centaines de vidéos d'exercices.",
-      "logoUrl": "../../assets/Companies/freelance.png"
-    },
-    {
-      "title": "Amadeus (1an 4mois)",
+      "title": "Amadeus (3ans 4mois)",
       "description": "Amadeus est une entreprise technologique mondiale spécialisée dans les solutions pour l'industrie du voyage, notamment les compagnies aériennes, agences de voyages, hôtels et aéroports.",
       "mission": "Ma mission était d'assurer le bon fonctionnement de l'outil utilisé par la SNCF et de développer de nouvelles fonctionnalités, tout en appliquant les méthodes agiles en milieu professionnel dans un environnement anglophone.",
       "logoUrl": "../../assets/Companies/amadeus.png"
@@ -68,5 +62,11 @@
       "mission": "Mon rôle était d'ajouter une fonctionnalité en PHP pour analyser les métadonnées des sauvegardes clients et intégrer un outil prédictif pour anticiper les pics ou incidents, comme le manque d'espace sur les serveurs.",
       "logoUrl": "../../assets/Companies/luminess.png"
     }
-  ]
+  ],
+  "comments": {
+    "title": "ITP Sarl (Juillet 2023 - Octobre 2023)",
+    "description": "Mission freelance pour le développement d'AlpiTraining (Qöna), une application mobile d'entraînement sportif.",
+    "mission": "Développement de la partie frontend avec React Native Expo pour une application d'entraînement personnalisé dédiée aux sports d'endurance (course à pied, trail, triathlon, cyclisme). Gestion complète du déploiement et de la publication sur Google Play Store et Apple App Store. L'application propose des programmes d'entraînement individualisés boostés par l'IA, avec des centaines de vidéos d'exercices.",
+    "logoUrl": "../../assets/Companies/freelance.png"
+  }
 }

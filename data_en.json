@@ -44,13 +44,7 @@
       "logoUrl": "../../assets/Companies/freelance.png"
     },
     {
-      "title": "ITP Sarl (July 2023 - October 2023)",
-      "description": "Freelance mission for the development of AlpiTraining (Qöna), a mobile sports training application.",
-      "mission": "Developed the frontend using React Native Expo for a personalised training application dedicated to endurance sports (running, trail, triathlon, cycling). Managed the complete deployment and publication on Google Play Store and Apple App Store. The app offers AI-powered personalised training programmes with hundreds of exercise videos.",
-      "logoUrl": "../../assets/Companies/freelance.png"
-    },
-    {
-      "title": "Amadeus (1 year 4 months)",
+      "title": "Amadeus (3 years 4 months)",
       "description": "Amadeus is a global technology company specialising in solutions for the travel industry, including airlines, travel agencies, hotels and airports.",
       "mission": "My mission was to ensure the smooth operation of the tool used by SNCF and to develop new features, while applying agile methodologies in a professional, English-speaking environment.",
       "logoUrl": "../../assets/Companies/amadeus.png"
@@ -68,5 +62,11 @@
       "mission": "My role was to add a PHP feature to analyse client backup metadata and integrate a predictive tool to anticipate peaks or incidents, such as running out of server disk space.",
       "logoUrl": "../../assets/Companies/luminess.png"
     }
-  ]
+  ],
+  "comments": {
+    "title": "ITP Sarl (July 2023 - October 2023)",
+    "description": "Freelance mission for the development of AlpiTraining (Qöna), a mobile sports training application.",
+    "mission": "Developed the frontend using React Native Expo for a personalised training application dedicated to endurance sports (running, trail, triathlon, cycling). Managed the complete deployment and publication on Google Play Store and Apple App Store. The app offers AI-powered personalised training programmes with hundreds of exercise videos.",
+    "logoUrl": "../../assets/Companies/freelance.png"
+  }
 }
