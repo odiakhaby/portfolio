@@ -38,13 +38,13 @@ function App() {
         <Routes>
           <Route element={<LocaleWrapper locale="fr" />}>
             <Route path="/" element={<Home />} />
-            <Route path="/project" element={<Projects />} />
+            <Route path="/projects" element={<Projects />} />
             <Route path="/about" element={<About />} />
             <Route path="/resume" element={<Resume />} />
           </Route>
           <Route path="/en" element={<LocaleWrapper locale="en" />}>
             <Route index element={<Home />} />
-            <Route path="project" element={<Projects />} />
+            <Route path="projects" element={<Projects />} />
             <Route path="about" element={<About />} />
             <Route path="resume" element={<Resume />} />
           </Route>
