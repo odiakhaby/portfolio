@@ -2,71 +2,166 @@
   "projects": [
     {
       "title": "FlowCompta",
-      "description": "FlowCompta est une solution des gestion d'entreprise tout-en-un. Elle permets de gérer les commandes, les employés, les dépenses, les clients et plus encore. Elle est utilisée par l'entreprise Africa Globale Services & Supply depuis décembre 2023.",
+      "description": "Application de gestion tout-en-un pour centrales d’achat : génération de devis, factures, bons de commande et bons de livraison, avec suivi des paiements intégré. Stockage de fichiers via Backblaze et emails transactionnels via Resend. En production chez Africa Globale Services & Supply depuis décembre 2024.",
+      "technologies": [
+        "Next.js",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Tailwind CSS",
+        "TanStack Query",
+        "Zustand",
+        "Backblaze",
+        "Resend"
+      ],
       "link": "https://flow-compta.com/"
     },
     {
       "title": "Leccole",
-      "description": "Leccole est une plateforme de gestion scolaire complète pour les écoles de la maternelle au lycée. Elle permet de gérer les inscriptions, les paiements, les notes et les emplois du temps avec l'intelligence artificielle. Inclut un portail enseignants, une comptabilité intégrée et un système de rôles et permissions pour directeurs, secrétaires et comptables.",
+      "description": "Plateforme SaaS de gestion scolaire complète pour les établissements de la maternelle au lycée. Centralise les inscriptions, paiements, notes, emplois du temps et la comptabilité. Intègre un portail enseignants, un système de rôles (directeur, secrétaire, comptable) et des notifications par email.",
+      "technologies": [
+        "Next.js",
+        "PostgreSQL",
+        "Neon",
+        "Prisma",
+        "better-auth",
+        "Resend",
+        "Docker"
+      ],
       "link": "https://leccole.com/"
     },
     {
       "title": "NafaEngins",
-      "description": "NafaEngins est une plateforme web de vente et location de véhicules en Guinée. Elle permet aux particuliers et professionnels de publier et rechercher des annonces de poids lourds, engins BTP, 4x4, pickups et voitures. Développée avec React et Hono.",
+      "description": "Marketplace web de vente et location de véhicules en Guinée (poids lourds, engins BTP, 4x4, pickups, voitures). Permet aux particuliers et professionnels de publier, rechercher et contacter via des annonces avec filtres avancés.",
+      "technologies": [
+        "React",
+        "PostgreSQL",
+        "Neon",
+        "Prisma",
+        "better-auth",
+        "Resend",
+        "Docker",
+        "NimbaSMS"
+      ],
       "link": "https://nafa-engins.com/"
     },
     {
       "title": "Kaidi",
-      "description": "Kaidi est une solution offline-first dédiée à la génnération de documents à partir de modèles Word, Excel et la gestion de la facturation. L'application fonctionne sans internet et permet la génération de documents en un clic avec protection des données sensibles.",
+      "description": "Application Desktop multiplateforme générant des documents PDF à partir de modèles Word/Excel, utilisée par trois centres de formation pour émettre leurs certificats. Fonctionne 100% hors-ligne avec pipelines CI/CD automatisés pour la distribution des exécutables.",
+      "technologies": [
+        "Electron",
+        "Next.js",
+        "SQLite",
+        "Neon",
+        "better-auth",
+        "Shadcn UI",
+        "GitHub Actions",
+        "Cloudflare R2",
+        "Docker"
+      ],
       "link": "https://kaidi.diaksdev.com/"
     },
     {
       "title": "ShapShapImmob",
-      "description": "ShapShapImmob est une application mobile intuitive et puissante permettant de gérer vos chantiers, de publier des annonces et de gérer vos locataires en toute simplicité",
+      "description": "Application mobile de gestion immobilière complète : suivi de chantiers, publication d’annonces et gestion des locataires. Interface intuitive pensée pour les gestionnaires de biens et promoteurs immobiliers.",
+      "technologies": [
+        "React Native",
+        "Expo",
+        "Hono",
+        "MongoDB",
+        "Mongoose",
+        "Docker"
+      ],
       "link": "#"
     },
     {
       "title": "Vendeur Heureux",
-      "description": "Vendeur Heureux est une application web d'admistration de boutiques ecommerce, elle permets de gérer les stocks, les dépenses, les commandes, les livreurs et les employés. Elle a été développée avec React/Mantine et Node/Express",
+      "description": "Application web d’administration pour e-commerçants permettant de gérer les stocks, dépenses, commandes, livreurs et employés en temps réel. Tableau de bord analytique pour piloter la performance commerciale.",
+      "technologies": [
+        "React",
+        "Mantine",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Mongoose",
+        "Docker"
+      ],
       "link": "https://vendeur-heureux.com/"
     },
     {
       "title": "Leezay",
-      "description": "Leezay est une application web developpé avec React et LoopBack. Leezay est une application permettant aux entreprise d'assurer leur facture aux taux le plus bas en interrogeant différents assureurs.",
+      "description": "Plateforme web B2B permettant aux entreprises de comparer et contracter l’assurance de leurs factures au meilleur taux en interrogeant plusieurs assureurs en temps réel.",
+      "technologies": [
+        "React",
+        "Material UI",
+        "LoopBack",
+        "MongoDB"
+      ],
       "link": "https://app.leezay.fr/login"
     }
   ],
   "experiences": [
     {
-      "title": "Développement de SaaS (Février 2024 - Aujourd'hui)",
-      "description": "Conception et développement de multiples solutions SaaS sur mesure pour différents secteurs d'activité.",
-      "mission": "Développement full-stack de plusieurs applications SaaS incluant une application de gestion scolaire (leccole.com), une plateforme de vente et location de véhicules en Guinée (nafa-engins.com), une solution de gestion documentaire pour mairies (kaidi.diaksdev.com), et d'autres solutions de gestion d'entreprise. Technologies utilisées : React, React Native, Node.js, Hono, et diverses bases de données.",
+      "title": "Développement SaaS Freelance (Fév. 2024 – Aujourd’hui)",
+      "description": "Conception, développement et déploiement de solutions SaaS sur-mesure pour différents secteurs : éducation, immobilier, gestion d’entreprise et services publics.",
+      "mission": "Développement full-stack de plusieurs applications SaaS : plateforme de gestion scolaire (leccole.com), application Desktop de génération documentaire (kaidi.diaksdev.com), application de gestion pour centrales d’achat (flow-compta.com), marketplace de véhicules en Guinée (nafa-engins.com). Déploiement complet avec CI/CD (GitHub Actions), hébergement sur Cloudflare R2 et Dokploy.",
+      "technologies": [
+        "React",
+        "Next.js",
+        "React Native",
+        "Node.js",
+        "Hono",
+        "PostgreSQL",
+        "MongoDB",
+        "SQLite",
+        "Electron",
+        "GitHub Actions",
+        "Dokploy"
+      ],
       "logoUrl": "../../assets/Companies/freelance.png"
     },
     {
-      "title": "Amadeus (3ans 4mois)",
-      "description": "Amadeus est une entreprise technologique mondiale spécialisée dans les solutions pour l'industrie du voyage, notamment les compagnies aériennes, agences de voyages, hôtels et aéroports.",
-      "mission": "Ma mission était d'assurer le bon fonctionnement de l'outil utilisé par la SNCF et de développer de nouvelles fonctionnalités, tout en appliquant les méthodes agiles en milieu professionnel dans un environnement anglophone.",
+      "title": "Amadeus (Oct. 2022 – Jan. 2024)",
+      "description": "Amadeus est une entreprise technologique mondiale spécialisée dans les solutions logicielles pour l’industrie du voyage (compagnies aériennes, agences de voyages, hôtels, aéroports).",
+      "mission": "Maintenance et évolution d’une application critique de gestion de réservations ferroviaires pour la SNCF, dans un environnement international anglophone. Livraison de fonctionnalités sous fortes contraintes de fiabilité, performance et sécurité au sein d’une équipe agile Scrum.",
+      "technologies": [
+        "Aria Template",
+        "Spring Boot",
+        "Bitbucket",
+        "Git practices",
+        "Agile (Scrum)"
+      ],
       "logoUrl": "../../assets/Companies/amadeus.png"
     },
     {
-      "title": "EDF (3 ans)",
-      "description": "EDF est une entreprise française leader mondial dans la production et la fourniture d’électricité, spécialisée dans le nucléaire et les énergies renouvelables.",
-      "mission": "Ma mission consistait à développer une application web qui centralise les ressources accessibles aux prestataires, facilite leur entrée et leur sortie, et offre une vue 360° sur leurs habilitations.",
-      "mission2": "Trouver un outils permettant de stocker et mettre à disposition de manière sécuriser les sercrets applicatifs en respectant les contraintes de l'équipe cyber",
+      "title": "EDF (Sept. 2019 – Sept. 2022)",
+      "description": "EDF est le leader mondial français de la production et distribution d’électricité, spécialisé dans le nucléaire et les énergies renouvelables.",
+      "mission": "Recueil des besoins auprès des parties prenantes (RH, sécurité, managers) et rédaction du cahier des charges d’une application de gestion des accès prestataires. Conception et développement full-stack de l’application centralisant les ressources matérielles (ordinateur, badge) et les habilitations de chaque prestataire sur les systèmes internes.",
+      "mission2": "Mise en place d’une vue 360° des habilitations facilitant l’intégration et garantissant le retrait systématique de toutes les ressources lors des départs. Recherche et déploiement d’une solution de gestion des secrets applicatifs conforme aux exigences de l’équipe cybersécurité.",
+      "technologies": [
+        "Angular",
+        "Spring Boot",
+        "Jhipster",
+        "PostgreSQL",
+        "Etude de marché",
+        "Rédaction rapport"
+      ],
       "logoUrl": "../../assets/Companies/edf.png"
     },
     {
       "title": "Luminess (2 mois)",
-      "description": "Luminess est une entreprise française spécialisée dans la transformation digitale, la dématérialisation et l'archivage numérique pour divers secteurs, tels que la banque, l'assurance, l'administration et la santé.",
-      "mission": "Mon rôle était d'ajouter une fonctionnalité en PHP pour analyser les métadonnées des sauvegardes clients et intégrer un outil prédictif pour anticiper les pics ou incidents, comme le manque d'espace sur les serveurs.",
+      "description": "Luminess est une entreprise française spécialisée dans la transformation digitale, la dématérialisation et l’archivage numérique pour divers secteurs : banque, assurance, administration et santé.",
+      "mission": "Développement d’une fonctionnalité d’analyse des métadonnées de sauvegardes clients et intégration d’un outil prédictif pour anticiper les pics d’incidents (saturation disque serveur).",
+      "technologies": [
+        "PHP"
+      ],
       "logoUrl": "../../assets/Companies/luminess.png"
     }
   ],
   "comments": {
     "title": "ITP Sarl (Juillet 2023 - Octobre 2023)",
-    "description": "Mission freelance pour le développement d'AlpiTraining (Qöna), une application mobile d'entraînement sportif.",
-    "mission": "Développement de la partie frontend avec React Native Expo pour une application d'entraînement personnalisé dédiée aux sports d'endurance (course à pied, trail, triathlon, cyclisme). Gestion complète du déploiement et de la publication sur Google Play Store et Apple App Store. L'application propose des programmes d'entraînement individualisés boostés par l'IA, avec des centaines de vidéos d'exercices.",
+    "description": "Mission freelance pour le développement d’AlpiTraining (Qöna), une application mobile d’entraînement sportif.",
+    "mission": "Développement de la partie frontend avec React Native Expo pour une application d’entraînement personnalisé dédiée aux sports d’endurance (course à pied, trail, triathlon, cyclisme). Gestion complète du déploiement et de la publication sur Google Play Store et Apple App Store. L’application propose des programmes d’entraînement individualisés boostés par l’IA, avec des centaines de vidéos d’exercices.",
     "logoUrl": "../../assets/Companies/freelance.png"
   }
 }

@@ -44,6 +44,7 @@ function Projects() {
                 isBlog={false}
                 title={project.title}
                 description={project.description}
+                technologies={project.technologies}
                 demoLink={project.link}
               />
             </Col>
@@ -61,6 +62,7 @@ function Projects() {
               logoUrl={getImage(index)}
               title={experience.title}
               description={experience.description}
+              technologies={experience.technologies}
               mission={experience.mission}
               mission2={experience.mission2}
             />

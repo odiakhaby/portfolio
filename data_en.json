@@ -2,64 +2,160 @@
   "projects": [
     {
       "title": "FlowCompta",
-      "description": "FlowCompta is an all-in-one business management solution. It allows you to manage orders, employees, expenses, clients and much more. Used by Africa Globale Services & Supply since December 2023.",
+      "description": "All-in-one management application for purchasing centres: generate quotes, invoices, purchase orders and delivery notes, with integrated payment tracking. File storage via Backblaze and transactional emails via Resend. Live in production at Africa Globale Services & Supply since December 2024.",
+      "technologies": [
+        "Next.js",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Tailwind CSS",
+        "TanStack Query",
+        "Zustand",
+        "Backblaze",
+        "Resend"
+      ],
       "link": "https://flow-compta.com/"
     },
     {
       "title": "Leccole",
-      "description": "Leccole is a comprehensive school management platform for institutions from kindergarten to high school. It handles enrollments, payments, grades and schedules powered by artificial intelligence. Includes a teacher portal, integrated accounting and a role-based permissions system for principals, secretaries and accountants.",
+      "description": "SaaS school management platform for institutions from kindergarten to high school. Centralises enrolments, payments, grades, schedules and accounting. Features a teacher portal, a role-based access system (principal, secretary, accountant) and email notifications.",
+      "technologies": [
+        "Next.js",
+        "PostgreSQL",
+        "Neon",
+        "Prisma",
+        "better-auth",
+        "Resend",
+        "Docker"
+      ],
       "link": "https://leccole.com/"
     },
     {
       "title": "NafaEngins",
-      "description": "NafaEngins is a web platform for buying and renting vehicles in Guinea. It allows individuals and businesses to post and search listings for heavy trucks, construction equipment, 4x4s, pickups and cars. Built with React and Hono.",
+      "description": "Web marketplace for buying and renting vehicles in Guinea (heavy trucks, construction equipment, 4x4s, pickups, cars). Enables individuals and businesses to post, browse and contact via listings with advanced filters.",
+      "technologies": [
+        "Next.js",
+        "PostgreSQL",
+        "Neon",
+        "Prisma",
+        "better-auth",
+        "Resend",
+        "NimbaSMS",
+        "Docker"
+      ],
       "link": "https://nafa-engins.com/"
     },
     {
       "title": "Kaidi",
-      "description": "Kaidi is an offline-first solution dedicated to generating documents from Word and Excel templates, as well as managing invoicing. The application works without an internet connection and enables document generation in one click with sensitive data protection.",
+      "description": "Cross-platform desktop application generating PDF documents from Word/Excel templates, used by three training centres to issue their certificates. Operates 100% offline with automated CI/CD pipelines for executable distribution.",
+      "technologies": [
+        "Electron",
+        "Next.js",
+        "SQLite",
+        "Neon",
+        "better-auth",
+        "Shadcn UI",
+        "GitHub Actions",
+        "Cloudflare R2",
+        "Docker"
+      ],
       "link": "https://kaidi.diaksdev.com/"
     },
     {
       "title": "ShapShapImmob",
-      "description": "ShapShapImmob is an intuitive and powerful mobile application for managing construction sites, posting property listings and managing tenants with ease.",
+      "description": "Comprehensive mobile real estate management application: construction site tracking, property listing publication and tenant management. Intuitive interface designed for property managers and real estate developers.",
+      "technologies": [
+        "React Native",
+        "Expo",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Mongoose",
+        "Docker"
+      ],
       "link": "#"
     },
     {
       "title": "Vendeur Heureux",
-      "description": "Vendeur Heureux is a web administration application for e-commerce stores. It allows managing stock, expenses, orders, delivery drivers and employees. Built with React/Mantine and Node/Express.",
+      "description": "Web administration application for e-commerce merchants to manage stock, expenses, orders, delivery drivers and employees in real time. Analytics dashboard to monitor business performance.",
+      "technologies": [
+        "React",
+        "Mantine",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Mongoose",
+        "Docker"
+      ],
       "link": "https://vendeur-heureux.com/"
     },
     {
       "title": "Leezay",
-      "description": "Leezay is a web application built with React and LoopBack. It allows companies to insure their invoices at the lowest rate by querying multiple insurers.",
+      "description": "B2B web platform enabling companies to compare and purchase invoice insurance at the best rate by querying multiple insurers in real time.",
+      "technologies": [
+        "React",
+        "Material UI",
+        "LoopBack",
+        "MongoDB"
+      ],
       "link": "https://app.leezay.fr/login"
     }
   ],
   "experiences": [
     {
-      "title": "SaaS Development (February 2024 - Present)",
-      "description": "Design and development of multiple custom SaaS solutions across various business sectors.",
-      "mission": "Full-stack development of several SaaS applications including a school management platform (leccole.com), a vehicle sales and rental platform in Guinea (nafa-engins.com), an administrative document management solution for town halls (kaidi.diaksdev.com), and other business management tools. Technologies: React, React Native, Node.js, Hono, and various databases.",
+      "title": "Freelance SaaS Development (Feb. 2024 – Present)",
+      "description": "Design, development and deployment of custom SaaS solutions across multiple sectors: education, real estate, business management and public services.",
+      "mission": "Full-stack development of several SaaS applications: school management platform (leccole.com), desktop document generation app (kaidi.diaksdev.com), purchasing centre management app (flow-compta.com), vehicle marketplace in Guinea (nafa-engins.com). Full deployment with CI/CD (GitHub Actions), hosting on Cloudflare R2 and Dokploy.",
+      "technologies": [
+        "React",
+        "Next.js",
+        "React Native",
+        "Node.js",
+        "Hono",
+        "PostgreSQL",
+        "MongoDB",
+        "SQLite",
+        "Electron",
+        "GitHub Actions",
+        "Dokploy"
+      ],
       "logoUrl": "../../assets/Companies/freelance.png"
     },
     {
-      "title": "Amadeus (3 years 4 months)",
-      "description": "Amadeus is a global technology company specialising in solutions for the travel industry, including airlines, travel agencies, hotels and airports.",
-      "mission": "My mission was to ensure the smooth operation of the tool used by SNCF and to develop new features, while applying agile methodologies in a professional, English-speaking environment.",
+      "title": "Amadeus (Oct. 2022 – Jan. 2024)",
+      "description": "Amadeus is a global technology company specialising in software solutions for the travel industry (airlines, travel agencies, hotels, airports).",
+      "mission": "Maintained and evolved a critical railway reservation management application used by SNCF, within an international English-speaking environment. Delivered features under strict reliability, performance and security constraints as part of a Scrum team.",
+      "technologies": [
+        "Aria Template",
+        "Spring Boot",
+        "Bitbucket",
+        "Git practices",
+        "Agile (Scrum)"
+      ],
       "logoUrl": "../../assets/Companies/amadeus.png"
     },
     {
-      "title": "EDF (3 years)",
-      "description": "EDF is a French company and world leader in electricity production and supply, specialising in nuclear and renewable energy.",
-      "mission": "My mission involved developing a web application that centralises resources accessible to contractors, facilitates their onboarding and offboarding, and provides a 360° view of their accreditations.",
-      "mission2": "Find a tool to securely store and distribute application secrets while complying with the cybersecurity team's constraints.",
+      "title": "EDF (Sept. 2019 – Sept. 2022)",
+      "description": "EDF is the French world leader in electricity production and distribution, specialising in nuclear and renewable energy.",
+      "mission": "Gathered requirements from stakeholders (HR, security, managers) and authored the functional specification for a contractor access management application. Designed and developed the full-stack application centralising hardware resources (computer, badge) and internal system accreditations for each contractor.",
+      "mission2": "Delivered a 360° accreditation view facilitating onboarding and ensuring systematic resource retrieval upon departure. Researched and deployed an application secret management solution compliant with the cybersecurity team’s requirements.",
+      "technologies": [
+        "Angular",
+        "Spring Boot",
+        "Jhipster",
+        "PostgreSQL",
+        "Etude de marché",
+        "Rédaction rapport"
+      ],
       "logoUrl": "../../assets/Companies/edf.png"
     },
     {
       "title": "Luminess (2 months)",
-      "description": "Luminess is a French company specialising in digital transformation, dematerialisation and digital archiving for various sectors including banking, insurance, public administration and healthcare.",
-      "mission": "My role was to add a PHP feature to analyse client backup metadata and integrate a predictive tool to anticipate peaks or incidents, such as running out of server disk space.",
+      "description": "Luminess is a French company specialising in digital transformation, dematerialisation and digital archiving for various sectors: banking, insurance, public administration and healthcare.",
+      "mission": "Developed a feature to analyse client backup metadata and integrated a predictive tool to anticipate incident peaks (server disk saturation).",
+      "technologies": [
+        "PHP"
+      ],
       "logoUrl": "../../assets/Companies/luminess.png"
     }
   ],

@@ -7,7 +7,7 @@
   },
   "home": {
     "greeting": "Hi There!",
-    "iam": "I'M"
+    "iam": "I’M"
   },
   "type": {
     "strings": [
@@ -20,20 +20,20 @@
   "home2": {
     "title_1": "LET ME",
     "title_2": "INTRODUCE MYSELF",
-    "body_1": "I fell in love with programming and I've learned at least something, I think... 🤷‍♂️",
-    "body_2": "I'm fluent in classics like",
+    "body_1": "Over 6 years of experience in web and mobile development, from design to deployment. Passionate about AI and emerging technologies. 🚀",
+    "body_2": "I am fluent in technologies such as",
     "body_3": "I channel my passion into",
     "body_web": "Web Development",
     "body_and": "and",
     "body_mobile": "Mobile Development.",
-    "body_4": "I also love learning new technologies to explore the possibilities they offer.",
+    "body_4": "I also love exploring new technologies and the possibilities they unlock.",
     "body_5": "Whenever possible, I apply my passion for development using technologies like",
     "body_6": "modern Javascript libraries and frameworks",
     "body_7": "such as",
     "find_me": "FIND ME ON",
     "say_hello_1": "Feel free to",
     "wave": "say hi,",
-    "say_hello_2": "I'll be happy to connect!"
+    "say_hello_2": "I’ll be happy to connect!"
   },
   "about": {
     "title_1": "Who",
@@ -46,8 +46,8 @@
   "aboutCard": {
     "iam": "I am",
     "from": "based in",
-    "location": "Nice, France.",
-    "profession": "I am a software engineer specialising in web and mobile development.",
+    "location": "Nantes, France.",
+    "profession": "Software engineer with over 6 years of experience in web and mobile development, from design to deployment.",
     "line2_1": "After earning my",
     "bac": "baccalaureate with highest honours",
     "line2_2": "in Guinea, I was awarded a higher education scholarship in Morocco.",
@@ -74,10 +74,10 @@
   "projects": {
     "title_1": "My",
     "title_2": "Projects",
-    "subtitle": "Some projects I have worked on",
+    "subtitle": "Concrete solutions I have designed and deployed",
     "exp_title_1": "My",
     "exp_title_2": "Experience",
-    "exp_subtitle": "Some companies I have worked with",
+    "exp_subtitle": "Companies I have had the pleasure of working with",
     "see": "View"
   },
   "experience": {
